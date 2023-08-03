@@ -1,0 +1,8 @@
+
+CuentaBancaria		CodigoCuentaCliente
+- codigoCuentaCliente	- entidadBancaria
+- titular		- oficina
+- saldo			- control
+			- numeroCuenta
+- retirar()
+- ingresar()

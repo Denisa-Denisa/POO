@@ -1,0 +1,12 @@
+Coche			Cliente							Empresa
+- matricula		- dni							- nombre
+- marca			- nombre						- clientes
+- modelo		- apellidos						- coches
+- kilometros	- coche		
+- estado										- void alquilar(String dni, String matricula)
+   - ALQUILADO	- void alquilar(Coche coche)	- void devolver(String dni)
+   - LIBRE		- Coche devolver()				- crearCliente()
+- estaLibre()									- crearCoche()
+- alquilar()									- estaCocheLibre()
+- devolver()
+

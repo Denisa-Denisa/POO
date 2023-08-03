@@ -1,0 +1,95 @@
+Rios
+ - nombre
+ - lista rios
+
+ * crearRio()
+ * eliminarRio(idRio)
+ * actualizarRio(idRio, ...) 
+ * getRio(idRio)
+ * getRios()
+ * existeRios(idRio);
+
+ * crearAfluente()
+ * eliminarAfluente(idAfluente)
+ * actualizarAfluente(idAfluente, ...)
+ * getAfluente(idAfluente)
+ * getAfluentes(idRio) // afluentes de un rio concreto
+ * getAfluentes() // afluentes de todos los rios
+
+  * crearCiudadRio(idRio, Ciudad, km)
+  * eliminarCiudad()
+  * actualizarCiudad()
+  * getCiudad()
+
+  * crearCiudadAfluente(idAfluente, Ciudad, km)
+  * getRiosPorCiudad(idCiudad);
+
+Rio
+  - id
+  - nombre (stting)
+  - longitudKm (double)
+  - lista ciudads (arrayList)
+  	- objeto ciudad
+  	- km por donde pasa (double)
+  - lugar de nacimiento (string)
+  - desembocadura (string) (mar/oceano)
+
+  - lista de afluentes
+
+  * crearCiudad()
+  * eliminarCiudad()
+  * actualizarCiudad()
+  * getCiudad()
+
+  * getAfluentes()
+  * crearAfluente()
+  * eliminarAfluente()
+  * actualizarAfluente()
+  * getAfluente(idAdluente)
+
+  * existeAfluente(idAfluente)
+
+
+Afluente
+  - id (distinto para todos los afluente)
+  - nombre (string)  - nombre (stting)
+  - longitudKm (double)
+  - lista ciudads (arrayList)
+  	- nombre ciudad (string
+  	- km por donde pasa (double)
+  - lugar de nacimiento (string)
+  - desembocadura (km del rio) (double)
+
+  - lista de afluentes
+
+  * getAfluentes()
+  * crearAfluente()
+  * eliminarAfluente()
+  * actualizarAfluente()
+  * getAfluente(idAdluente)
+
+  * existeAfluente(idAfluente)
+
+  * crearCiudad()
+  * eliminarCiudad()
+  * getCiudad()
+
+CiudadPasaRio
+	- Ciudad
+        - km
+
+Ciudad
+  - id
+  - nombre
+  
+
+-----------
+
+Afluentes
+  -
+  -
+  	- alberche
+ 		- ttttt
+	- aaaaaaaa
+
+

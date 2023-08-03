@@ -1,0 +1,62 @@
+INTERFAZ DE USUARIO
+
+1. Alta Comunidad Autonoma.
+2. Alta Provincia.
+3. Alta Ciudad.
+4. Listado de Comunidads.
+5. Listado de Provincias.
+6. Listado de Ciudades.
+7. Modificar Comunidad Autonoma.
+8. Modificar Provincia.
+9. Modificar Ciudad.
+10. Eliminar Comunidad Autonoma.
+11. Eliminar Provincia.
+12. Eliminar Ciudad.
+13. Info. Comunidad.
+14. Info. Provincia.
+15. Info. Ciudad.
+0. Salir
+-------------------------------
+
+COMUNIDADES AUTONOMAS
+---------------------
+1. Madrid
+2. Castilla La Macha
+...
+
+C. Crear Comunidad Autonoma
+0. Salir
+
+Elige la opcion: 
+
+-----------------------------
+MADRID
+Madrid   40000
+
+1. Madrid
+
+C. Crear Provincia
+M. Modificar Datos.
+E. Eliminar
+0. Vover
+
+---------------------------
+Madrid
+1. ciudad 1
+2. ciudad 2
+
+C. Crear ciudad.
+M. Modificar datos.
+E. Eliminar
+9. Volver.
+
+----------------------------
+Ciudad
+Datos de la ciudad
+
+M. Modificar
+D. Eliminar
+0. Volver
+
+
+

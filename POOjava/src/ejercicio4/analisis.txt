@@ -1,0 +1,6 @@
+CIRCUNFERENCIA	TRIANGULO	RECTANGULO	CUADRADO
+- radio		- cateto1	- lado1		- lado
+		- cateto2	- lado2
+- getArea()	- getArea()	- getArea()	-getArea()
+- getPerimetro()- getPerimetro()- getPerimetro()-getPerimetro()
+		- getHipotenusa()
